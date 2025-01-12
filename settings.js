@@ -45,7 +45,7 @@ global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
 global.botName = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒" 
 global.wm = "𝐃𝐄𝐌𝐎𝐍 𝐗 𝐙𝐎𝐑𝐎 𝐕𝟒"
-global.fake = sye
+global.fake = anonymous 
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
 global.themeemoji = '🔆'
